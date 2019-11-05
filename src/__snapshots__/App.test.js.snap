@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a component called NavBar 1`] = `
+<div
+  id="navbar"
+>
+  Site logo here
+</div>
+`;
